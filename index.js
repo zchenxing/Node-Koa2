@@ -13,6 +13,8 @@ const class12 = require('./class12-ejs');
 const class13 = require('./class13-upload-flie');
 const class14 = require('./class14-upload-async');
 const class15 = require('./class15-mysql');
+const class16 = require('./class16-mysql-init');
+const class17 = require('./class17-jsonp');
 
-class15();
+class17();
 
